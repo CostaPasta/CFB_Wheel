@@ -1,0 +1,1064 @@
+[
+    {
+        "school": "Air Force",
+        "nickname": "Falcons",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 1,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Air_Force_Falcons_logo.svg"
+    },
+    {
+        "school": "Akron",
+        "nickname": "Zips",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Akron_Zips_logo.svg"
+    },
+    {
+        "school": "Alabama",
+        "nickname": "Crimson Tide",
+        "conference": "SEC",
+        "stars": 6,
+        "id": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Alabama_Crimson_Tide_logo.svg"
+    },
+    {
+        "school": "Appalachian State",
+        "nickname": "Mountaineers",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Appalachian_State_Mountaineers_logo.svg"
+    },
+    {
+        "school": "Arizona",
+        "nickname": "Wildcats",
+        "conference": "Big 12",
+        "stars": 2,
+        "id": 5,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Arizona_Wildcats_logo.svg"
+    },
+    {
+        "school": "Arizona State",
+        "nickname": "Sun Devils",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 6,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/0/0a/Arizona_State_Sun_Devils_logo.svg"
+    },
+    {
+        "school": "Arkansas",
+        "nickname": "Razorbacks",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 7,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/81/Arkansas_Razorbacks_logo.svg"
+    },
+    {
+        "school": "Arkansas State",
+        "nickname": "Red Wolves",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 8,
+        "logo": "https://en.wikipedia.org/wiki/File:Arkansas_State_Red_Wolves_logo.svg"
+    },
+    {
+        "school": "Army",
+        "nickname": "Black Knights",
+        "conference": "American",
+        "stars": 2,
+        "id": 9,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Army_West_Point_logo.svg"
+    },
+    {
+        "school": "Auburn",
+        "nickname": "Tigers",
+        "conference": "SEC",
+        "stars": 4,
+        "id": 10,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/15/Auburn_Tigers_logo.svg"
+    },
+    {
+        "school": "Ball State",
+        "nickname": "Cardinals",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 11,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Ball_State_Cardinals_logo.svg/150px-Ball_State_Cardinals_logo.svg.png"
+    },
+    {
+        "school": "Baylor",
+        "nickname": "Bears",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 12,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Baylor_Athletics_logo.svg/800px-Baylor_Athletics_logo.svg.png"
+    },
+    {
+        "school": "Boise State",
+        "nickname": "Broncos",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 13,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Primary_Boise_State_Broncos_Athletics_Logo.svg/1024px-Primary_Boise_State_Broncos_Athletics_Logo.svg.png"
+    },
+    {
+        "school": "Boston College",
+        "nickname": "Eagles",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 14,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/Boston_College_Eagles_logo.svg/150px-Boston_College_Eagles_logo.svg.png"
+    },
+    {
+        "school": "Bowling Green",
+        "nickname": "Falcons",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 15,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Bowling_Green_Falcons_logo.svg/200px-Bowling_Green_Falcons_logo.svg.png"
+    },
+    {
+        "school": "Buffalo",
+        "nickname": "Bulls",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 16,
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Buffalo_Bulls_Athletic_Logo.svg/200px-Buffalo_Bulls_Athletic_Logo.svg.png"
+    },
+    {
+        "school": "BYU",
+        "nickname": "Cougars",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 17,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/BYU_Stretch_Y_Logo.png/200px-BYU_Stretch_Y_Logo.png"
+    },
+    {
+        "school": "California",
+        "nickname": "Golden Bears",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 18,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/California_Golden_Bears_logo.svg/125px-California_Golden_Bears_logo.svg.png"
+    },
+    {
+        "school": "Central Michigan",
+        "nickname": "Chippewas",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 19,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Central_Michigan_Chippewas_logo.svg/150px-Central_Michigan_Chippewas_logo.svg.png"
+    },
+    {
+        "school": "Charlotte",
+        "nickname": "49ers",
+        "conference": "American",
+        "stars": 2,
+        "id": 20,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Charlotte_49ers_logo.svg/115px-Charlotte_49ers_logo.svg.png"
+    },
+    {
+        "school": "Cincinnati",
+        "nickname": "Bearcats",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 21,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cincinnati_Bearcats_logo.svg/90px-Cincinnati_Bearcats_logo.svg.png"
+    },
+    {
+        "school": "Clemson",
+        "nickname": "Tigers",
+        "conference": "ACC",
+        "stars": 5,
+        "id": 22,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Coastal Carolina",
+        "nickname": "Chanticleers",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 23,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Colorado",
+        "nickname": "Buffaloes",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 24,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Colorado State",
+        "nickname": "Rams",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 25,
+        "logo": "https://en.wikipedia.org/wiki/File:Colorado_State_Rams_logo.svg"
+    },
+    {
+        "school": "Duke",
+        "nickname": "Blue Devils",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 26,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "East Carolina",
+        "nickname": "Pirates",
+        "conference": "American",
+        "stars": 2,
+        "id": 27,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Eastern Michigan",
+        "nickname": "Eagles",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 28,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Florida Atlantic",
+        "nickname": "Owls",
+        "conference": "American",
+        "stars": 2,
+        "id": 29,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "FIU",
+        "nickname": "Panthers",
+        "conference": "C-USA",
+        "stars": 1,
+        "id": 30,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Florida",
+        "nickname": "Gators",
+        "conference": "SEC",
+        "stars": 4,
+        "id": 31,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Florida State",
+        "nickname": "Seminoles",
+        "conference": "ACC",
+        "stars": 4,
+        "id": 32,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Fresno State",
+        "nickname": "Bulldogs",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 33,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Georgia",
+        "nickname": "Bulldogs",
+        "conference": "SEC",
+        "stars": 6,
+        "id": 34,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Georgia Southern",
+        "nickname": "Eagles",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 35,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Georgia State",
+        "nickname": "Panthers",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 36,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Georgia Tech",
+        "nickname": "Yellow Jackets",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 37,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Hawaii",
+        "nickname": "Rainbow Warriors",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 38,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Houston",
+        "nickname": "Cougars",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 39,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Illinois",
+        "nickname": "Fighting Illini",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 40,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Indiana",
+        "nickname": "Hoosiers",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 41,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Iowa",
+        "nickname": "Hawkeyes",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 42,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Iowa State",
+        "nickname": "Cyclones",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 43,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Jacksonville State",
+        "nickname": "Gamecocks",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 44,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "James Madison",
+        "nickname": "Dukes",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 45,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Kansas",
+        "nickname": "Jayhawks",
+        "conference": "Big 12",
+        "stars": 2,
+        "id": 46,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Kansas State",
+        "nickname": "Wildcats",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 47,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Kennesaw State",
+        "nickname": "Owls",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 48,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Kent State",
+        "nickname": "Golden Flashes",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 49,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Kentucky",
+        "nickname": "Wildcats",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 50,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Liberty",
+        "nickname": "Flames",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 51,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Louisiana",
+        "nickname": "Ragin\u2019 Cajuns",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 52,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Louisiana-Monroe",
+        "nickname": "Warhawks",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 53,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Louisiana Tech",
+        "nickname": "Bulldogs",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 54,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Louisville",
+        "nickname": "Cardinals",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 55,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "LSU",
+        "nickname": "Tigers",
+        "conference": "SEC",
+        "stars": 5,
+        "id": 56,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Marshall",
+        "nickname": "Thundering Herd",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 57,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Maryland",
+        "nickname": "Terrapins",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 58,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Memphis",
+        "nickname": "Tigers",
+        "conference": "American",
+        "stars": 2,
+        "id": 59,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Miami (FL)",
+        "nickname": "Hurricanes",
+        "conference": "ACC",
+        "stars": 4,
+        "id": 60,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Miami (OH)",
+        "nickname": "RedHawks",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 61,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Michigan",
+        "nickname": "Wolverines",
+        "conference": "Big Ten",
+        "stars": 6,
+        "id": 62,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Michigan State",
+        "nickname": "Spartans",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 63,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Middle Tennessee",
+        "nickname": "Blue Raiders",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 64,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Minnesota",
+        "nickname": "Golden Gophers",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 65,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Mississippi State",
+        "nickname": "Bulldogs",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 66,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Missouri",
+        "nickname": "Tigers",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 67,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Navy",
+        "nickname": "Midshipmen",
+        "conference": "American",
+        "stars": 2,
+        "id": 68,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "NC State",
+        "nickname": "Wolfpack",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 69,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Nebraska",
+        "nickname": "Cornhuskers",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 70,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Nevada",
+        "nickname": "Wolf Pack",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 71,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "New Mexico",
+        "nickname": "Lobos",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 72,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "New Mexico State",
+        "nickname": "Aggies",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 73,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "North Carolina",
+        "nickname": "Tar Heels",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 74,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "North Texas",
+        "nickname": "Mean Green",
+        "conference": "American",
+        "stars": 2,
+        "id": 75,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Northern Illinois",
+        "nickname": "Huskies",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 76,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Northwestern",
+        "nickname": "Wildcats",
+        "conference": "Big Ten",
+        "stars": 2,
+        "id": 77,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Notre Dame",
+        "nickname": "Fighting Irish",
+        "conference": "Independent",
+        "stars": 5,
+        "id": 78,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Ohio",
+        "nickname": "Bobcats",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 79,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Ohio State",
+        "nickname": "Buckeyes",
+        "conference": "Big Ten",
+        "stars": 6,
+        "id": 80,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Oklahoma",
+        "nickname": "Sooners",
+        "conference": "SEC",
+        "stars": 5,
+        "id": 81,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Oklahoma State",
+        "nickname": "Cowboys",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 82,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Old Dominion",
+        "nickname": "Monarchs",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 83,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Ole Miss",
+        "nickname": "Rebels",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 84,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Oregon",
+        "nickname": "Ducks",
+        "conference": "Big Ten",
+        "stars": 4,
+        "id": 85,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Oregon State",
+        "nickname": "Beavers",
+        "conference": "Pac-12",
+        "stars": 3,
+        "id": 86,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Penn State",
+        "nickname": "Nittany Lions",
+        "conference": "Big Ten",
+        "stars": 5,
+        "id": 87,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Pittsburgh",
+        "nickname": "Panthers",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 88,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Purdue",
+        "nickname": "Boilermakers",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 89,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Rice",
+        "nickname": "Owls",
+        "conference": "American",
+        "stars": 2,
+        "id": 90,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Rutgers",
+        "nickname": "Scarlet Knights",
+        "conference": "Big Ten",
+        "stars": 2,
+        "id": 91,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Sam Houston",
+        "nickname": "Bearkats",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 92,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "San Diego State",
+        "nickname": "Aztecs",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 93,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "San Jose State",
+        "nickname": "Spartans",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 94,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "SMU",
+        "nickname": "Mustangs",
+        "conference": "ACC",
+        "stars": 2,
+        "id": 95,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "South Alabama",
+        "nickname": "Jaguars",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 96,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "South Carolina",
+        "nickname": "Gamecocks",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 97,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "South Florida",
+        "nickname": "Bulls",
+        "conference": "American",
+        "stars": 2,
+        "id": 98,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Southern Miss",
+        "nickname": "Golden Eagles",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 99,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Stanford",
+        "nickname": "Cardinal",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 100,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Syracuse",
+        "nickname": "Orange",
+        "conference": "ACC",
+        "stars": 3,
+        "id": 101,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "TCU",
+        "nickname": "Horned Frogs",
+        "conference": "Big 12",
+        "stars": 4,
+        "id": 102,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Temple",
+        "nickname": "Owls",
+        "conference": "American",
+        "stars": 2,
+        "id": 103,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Tennessee",
+        "nickname": "Volunteers",
+        "conference": "SEC",
+        "stars": 4,
+        "id": 104,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Texas",
+        "nickname": "Longhorns",
+        "conference": "SEC",
+        "stars": 5,
+        "id": 105,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Texas A&M",
+        "nickname": "Aggies",
+        "conference": "SEC",
+        "stars": 3,
+        "id": 106,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Texas State",
+        "nickname": "Bobcats",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 107,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Texas Tech",
+        "nickname": "Red Raiders",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 108,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Toledo",
+        "nickname": "Rockets",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 109,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Troy",
+        "nickname": "Trojans",
+        "conference": "Sun Belt",
+        "stars": 2,
+        "id": 110,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Tulane",
+        "nickname": "Green Wave",
+        "conference": "American",
+        "stars": 2,
+        "id": 111,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Tulsa",
+        "nickname": "Golden Hurricane",
+        "conference": "American",
+        "stars": 2,
+        "id": 112,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UAB",
+        "nickname": "Blazers",
+        "conference": "American",
+        "stars": 2,
+        "id": 113,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UCF",
+        "nickname": "Knights",
+        "conference": "Big 12",
+        "stars": 3,
+        "id": 114,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UCLA",
+        "nickname": "Bruins",
+        "conference": "Big Ten",
+        "stars": 3,
+        "id": 115,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UConn",
+        "nickname": "Huskies",
+        "conference": "Independent",
+        "stars": 2,
+        "id": 116,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UMass",
+        "nickname": "Minutemen",
+        "conference": "MAC",
+        "stars": 1,
+        "id": 117,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UNLV",
+        "nickname": "Rebels",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 118,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "USC",
+        "nickname": "Trojans",
+        "conference": "Big Ten",
+        "stars": 5,
+        "id": 119,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UTEP",
+        "nickname": "Miners",
+        "conference": "C-USA",
+        "stars": 2,
+        "id": 120,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "UTSA",
+        "nickname": "Roadrunners",
+        "conference": "American",
+        "stars": 2,
+        "id": 121,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Utah",
+        "nickname": "Utes",
+        "conference": "Big 12",
+        "stars": 4,
+        "id": 122,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Utah State",
+        "nickname": "Aggies",
+        "conference": "Mountain West",
+        "stars": 2,
+        "id": 123,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Vanderbilt",
+        "nickname": "Commodores",
+        "conference": "SEC",
+        "stars": 2,
+        "id": 124,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/"
+    },
+    {
+        "school": "Virginia",
+        "nickname": "Cavaliers",
+        "conference": "ACC",
+        "stars": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/47/Virginia_Cavaliers_logo.svg"
+    },
+    {
+        "school": "Virginia Tech",
+        "nickname": "Hokies",
+        "conference": "ACC",
+        "stars": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Virginia_Tech_Hokies_logo.svg"
+    },
+    {
+        "school": "Wake Forest",
+        "nickname": "Demon Deacons",
+        "conference": "ACC",
+        "stars": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/34/Wake_Forest_Demon_Deacons_logo.svg"
+    },
+    {
+        "school": "Washington",
+        "nickname": "Huskies",
+        "conference": "Big Ten",
+        "stars": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Washington_Huskies_logo.svg"
+    },
+    {
+        "school": "Washington State",
+        "nickname": "Cougars",
+        "conference": "Pac-12",
+        "stars": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Washington_State_Cougars_logo.svg"
+    },
+    {
+        "school": "West Virginia",
+        "nickname": "Mountaineers",
+        "conference": "Big 12",
+        "stars": 3,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6e/West_Virginia_Mountaineers_logo.svg"
+    },
+    {
+        "school": "Western Kentucky",
+        "nickname": "Hilltoppers",
+        "conference": "C-USA",
+        "stars": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Western_Kentucky_Hilltoppers_logo.svg"
+    },
+    {
+        "school": "Western Michigan",
+        "nickname": "Broncos",
+        "conference": "MAC",
+        "stars": 1,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/2/24/Western_Michigan_Broncos_logo.svg"
+    },
+    {
+        "school": "Wisconsin",
+        "nickname": "Badgers",
+        "conference": "Big Ten",
+        "stars": 4,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Wisconsin_Badgers_logo.svg"
+    },
+    {
+        "school": "Wyoming",
+        "nickname": "Cowboys",
+        "conference": "Mountain West",
+        "stars": 2,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wyoming_Cowboys_logo.svg"
+    }
+]
